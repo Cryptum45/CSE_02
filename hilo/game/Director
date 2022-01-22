@@ -1,4 +1,4 @@
-from game.die import Die
+
 # Testing
 
 class Director:
